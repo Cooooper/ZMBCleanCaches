@@ -1,0 +1,2 @@
+# ZMBCleanCaches
+封装的用于管理Sanbox数据缓存的api
